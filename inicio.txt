@@ -6,5 +6,6 @@ MENU INICIO
 3- Realizar formulario de inicio se sesion
 4- Crear carteles de alerta si no llega a colocar bien usuario y contraseña
 
-
+PASO 1
+- Buscar imagenes(pendiente)
 
